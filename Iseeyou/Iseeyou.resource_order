@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Object","order":5,"path":"folders/Object.yy",},
+    {"name":"Blocks","order":7,"path":"folders/Object/Blocks.yy",},
+    {"name":"Sprites","order":4,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_blockcorner","order":1,"path":"objects/obj_blockcorner/obj_blockcorner.yy",},
+    {"name":"obj_mouse","order":9,"path":"objects/obj_mouse/obj_mouse.yy",},
+    {"name":"obj_player","order":5,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Block","order":6,"path":"sprites/Block/Block.yy",},
+    {"name":"BlockCorner","order":8,"path":"sprites/BlockCorner/BlockCorner.yy",},
+    {"name":"Player","order":5,"path":"sprites/Player/Player.yy",},
+    {"name":"spr_mouse","order":7,"path":"sprites/spr_mouse/spr_mouse.yy",},
+  ],
+}
